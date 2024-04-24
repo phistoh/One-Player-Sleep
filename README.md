@@ -1,3 +1,8 @@
+# Note
+This data pack is not needed anymore, since Minecraft includes a gamerule *playersSleepingPercentage*. Setting this gamerule to 0 (`/gamerule playersSleepingPercentage 0`), enables skipping the night with just one player sleeping.
+
+---
+
 # One Player Sleep
 A Minecraft data pack which allows skipping the night even when only one player sleeps.
 
